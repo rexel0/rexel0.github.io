@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay, see you on the 18th!";
+  question.innerHTML = "YES YOU ARE I HOPE YOU HAVE GOOD DAY I LOVE YOU SO MUCH ALL LOVE OSAma IK I WAS OR IM DUMB BUTTT IM REAL!! AND IM SORRY I WAS BAD WITH YOU FORGIVE ME ILYSM!";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
